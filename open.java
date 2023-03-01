@@ -6,8 +6,8 @@ public class open {
 
     public static void main(String[] args) {
         int resultado = 0;
-        int a = 4;
-        int b = 6;
+        int a = 25;
+        int b = 14;
         resultado = suma(a, b);
         System.out.println(resultado);
     }
